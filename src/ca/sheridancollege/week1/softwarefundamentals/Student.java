@@ -13,6 +13,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * push operation
  * showing you the change on NetBeans and pushing to Github
  changing the file on remote 
+ showing fetch and merge
  * @author dancye May 7, 2018
  */
 public class Student 
