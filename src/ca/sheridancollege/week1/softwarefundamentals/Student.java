@@ -12,6 +12,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * @modifiedby Nagma
  * push operation
  * showing you the change on NetBeans and pushing to Github
+ changing the file on remote 
  * @author dancye May 7, 2018
  */
 public class Student 
