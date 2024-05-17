@@ -10,7 +10,6 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * each student has: a name (first an last name)
  * each student can: say their name (getName)
  * @modifiedby Nagma
- * just to see change
  * 
  * @author dancye May 7, 2018
  */
